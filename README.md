@@ -1,1 +1,3 @@
-https://github.com/LomiGoo/ITF-group-portfolio
+# ITF Group Portfolio
+
+[View Project](https://lomigoo.github.io/ITF-group-portfolio/)
