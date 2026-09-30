@@ -87,12 +87,12 @@ const resources = {
                     ['PT1 - Laboratory Activity No. 1.5.6', 'files/marina-pdf/performance-tasks/prelim/PT1%20-%20LABORATORY%20ACTIVITY%20NO%201.5.6.pdf']
                 ],
                 midterm: [
+                    ['PT2 - M2U3 Midterms Lab Exercise 7', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%207.pdf'],
                     ['PT2 - M2U3 Midterms Lab Exercise 8', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%208.pdf'],
-                    ['PT2 - M2U3 Midterms Lab Exercise 9', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%209.pdf'],
-                    ['PT2 - M2U4 Midterms Lab Exercise 10', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M2U4%20Midterms%20Lab%20Exercise%2010.pdf'],
-                    ['PT2 - M3U1 Midterms Lab Exercise 11', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2011.pdf'],
-                    ['PT2 - M3U3 Midterms Lab Exercise 13', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M3U3%20Midterms%20Lab%20Exercise%2013.pdf'],
-                    ['PT2 - M3U3 Midterms Lab Exercise 14', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M3U3%20Midterms%20Lab%20Exercise%2014.pdf']
+                    ['PT2 - M2U4 Midterms Lab Exercise 9', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M2U4%20Midterms%20Lab%20Exercise%209.pdf'],
+                    ['PT2 - M3U1 Midterms Lab Exercise 10', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2010.pdf'],
+                    ['PT2 - M3U3 Midterms Lab Exercise 11', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M3U3%20Midterms%20Lab%20Exercise%2011.pdf'],
+                    ['PT2 - M3U3 Midterms Lab Exercise 12', 'files/marina-pdf/performance-tasks/midterm/PT2%20-%20M3U3%20Midterms%20Lab%20Exercise%2012.pdf']
                 ]
             },
             chevelle: {
@@ -105,9 +105,12 @@ const resources = {
                     ['PT1 - Laboratory Activity No. 1.5.6', 'files/chevelle-pdf/performance-tasks/prelim/PT1%20-%20LABORATORY%20ACTIVITY%20NO%201.5.6.pdf']
                 ],
                 midterm: [
+                    ['PT2 - M2U3 Midterms Lab Exercise 7', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%207.pdf'],
                     ['PT2 - M2U3 Midterms Lab Exercise 8', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%208.pdf'],
-                    ['PT2 - M2U3 Midterms Lab Exercise 9', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%209.pdf'],
-                    ['PT2 - M3U1 Midterms Lab Exercise 11', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2011.pdf']
+                    ['PT2 - M3U1 Midterms Lab Exercise 9', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%209.pdf'],
+                    ['PT2 - M3U1 Midterms Lab Exercise 10', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2010.pdf'],
+                    ['PT2 - M3U1 Midterms Lab Exercise 11', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2011.pdf'],
+                    ['PT2 - M3U3 Midterms Lab Exercise 12', 'files/chevelle-pdf/performance-tasks/midterm/PT2%20-%20M3U3%20Midterms%20Lab%20Exercise%2012.pdf']
                 ]
             },
             sean: {
@@ -120,8 +123,11 @@ const resources = {
                     ['PT1 - Laboratory Activity No. 1.5.6', 'files/sean-pdf/performance-tasks/prelim/PT1%20-%20LABORATORY%20ACTIVITY%20NO%201.5.6.pdf']
                 ],
                 midterm: [
+                    ['PT2 - M2U3 Midterms Lab Exercise 7', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%207.pdf'],
                     ['PT2 - M2U3 Midterms Lab Exercise 8', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%208.pdf'],
-                    ['PT2 - M2U3 Midterms Lab Exercise 9', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%209.pdf']
+                    ['PT2 - M3U1 Midterms Lab Exercise 9', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%209.pdf'],
+                    ['PT2 - M3U1 Midterms Lab Exercise 11', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2011.pdf'],
+                    ['PT2 - M3U3 Midterms Lab Exercise 12', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M3U3%20Midterms%20Lab%20Exercise%2012.pdf']
                 ]
             }
         }
@@ -139,7 +145,7 @@ const resources = {
                 ],
                 midterm: [
                     ['WW2 - M2U3 Midterms Assignment 5', 'files/marina-pdf/assignments/midterm/WW2%20-%20M2U3%20Midterms%20Assignment%205.pdf'],
-                    ['M2U4 Midterms Assignment 6', 'files/marina-pdf/assignments/midterm/M2U4%20Midterms%20Assignment%206.pdf'],
+                    ['WW2 - M2U4 Midterms Assignment 6', 'files/marina-pdf/assignments/midterm/WW2%20-%20M2U4%20Midterms%20Assignment%206.pdf'],
                     ['WW2 - M3U1 Midterms Assignment 7', 'files/marina-pdf/assignments/midterm/WW2%20%E2%80%93%20M3U1%20Midterms%20Assignment%207.pdf'],
                     ['WW2 - M3U2 Midterms Assignment 8', 'files/marina-pdf/assignments/midterm/WW2%20%E2%80%93%20M3U2%20Midterms%20Assignment%208.pdf'],
                     ['WW2 - M3U3 Midterms Assignment 9', 'files/marina-pdf/assignments/midterm/WW2%20-%20M3U3%20Midterms%20Assignment%209.pdf'],
@@ -155,10 +161,11 @@ const resources = {
                 ],
                 midterm: [
                     ['WW2 - M2U3 Midterms Assignment 5', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M2U3%20Midterms%20Assignment%205.pdf'],
-                    ['M2U4 Midterms Assignment 6', 'files/chevelle-pdf/assignments/midterm/M2U4%20Midterms%20Assignment%206.pdf'],
-                    ['WW2 - M3U2 Midterms Assignment 8', 'files/chevelle-pdf/assignments/midterm/WW2%20%E2%80%93%20M3U2%20Midterms%20Assignment%208.pdf'],
-                    ['WW2 - M3U3 Midterms Assignment 9', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M3U3%20Midterms%20Assignment%209.pdf'],
-                    ['WW2 - M3U5_M4U1 Assignment 10', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M3U5_M4U1%20Assignment%2010.pdf']
+                    ['WW2 - M2U4 Midterms Assignment 6', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M2U4%20Midterms%20Assignment%206.pdf'],
+                    ['WW2 - M3U1 Midterms Assignment 7', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M3U1%20Midterms%20Assignment%207.pdf'],
+                    ['WW2 - M3U3 Midterms Assignment 8', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M3U3%20Midterms%20Assignment%208.pdf'],
+                    ['WW2 - M3U5_M4U1 Midterms Assignment 9', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M3U5_M4U1%20Midterms%20Assignment%209.pdf'],
+                    ['WW2 - M3U5 Midterms Assignment 10', 'files/chevelle-pdf/assignments/midterm/WW2%20-%20M3U5%20Midterms%20Assignment%2010.pdf']
                 ]
             },
             sean: {
@@ -170,10 +177,11 @@ const resources = {
                 ],
                 midterm: [
                     ['WW2 - M2U3 Midterms Assignment 5', 'files/sean-pdf/assignments/midterm/WW2%20-%20M2U3%20Midterms%20Assignment%205.pdf'],
-                    ['M2U4 Midterms Assignment 6', 'files/sean-pdf/assignments/midterm/M2U4%20Midterms%20Assignment%206.pdf'],
-                    ['WW2 - M3U2 Midterms Assignment 8', 'files/sean-pdf/assignments/midterm/WW2%20%E2%80%93%20M3U2%20Midterms%20Assignment%208.pdf'],
-                    ['WW2 - M3U3 Midterms Assignment 9', 'files/sean-pdf/assignments/midterm/WW2%20-%20M3U3%20Midterms%20Assignment%209.pdf'],
-                    ['WW2 - M3U5_M4U1 Assignment 10', 'files/sean-pdf/assignments/midterm/WW2%20-%20M3U5_M4U1%20Assignment%2010.pdf']
+                    ['WW2 - M2U4 Midterms Assignment 6', 'files/sean-pdf/assignments/midterm/WW2%20-%20M2U4%20Midterms%20Assignment%206.pdf'],
+                    ['WW2 - M3U1 Midterms Assignment 7', 'files/sean-pdf/assignments/midterm/WW2%20-%20M3U1%20Midterms%20Assignment%207.pdf'],
+                    ['WW2 - M3U3 Midterms Assignment 8', 'files/sean-pdf/assignments/midterm/WW2%20-%20M3U3%20Midterms%20Assignment%208.pdf'],
+                    ['WW2 - M3U5_M4U1 Midterms Assignment 9', 'files/sean-pdf/assignments/midterm/WW2%20-%20M3U5_M4U1%20Midterms%20Assignment%209.pdf'],
+                    ['WW2 - M3U5 Midterms Assignment 10', 'files/sean-pdf/assignments/midterm/WW2%20-%20M3U5%20Midterms%20Assignment%2010.pdf']
                 ]
             }
         }
