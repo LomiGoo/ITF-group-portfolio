@@ -126,6 +126,7 @@ const resources = {
                     ['PT2 - M2U3 Midterms Lab Exercise 7', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%207.pdf'],
                     ['PT2 - M2U3 Midterms Lab Exercise 8', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M2U3%20Midterms%20Lab%20Exercise%208.pdf'],
                     ['PT2 - M3U1 Midterms Lab Exercise 9', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%209.pdf'],
+                    ['PT2 - M3U1 Midterms Lab Exercise 10', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2010.pdf'],
                     ['PT2 - M3U1 Midterms Lab Exercise 11', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M3U1%20Midterms%20Lab%20Exercise%2011.pdf'],
                     ['PT2 - M3U3 Midterms Lab Exercise 12', 'files/sean-pdf/performance-tasks/midterm/PT2%20-%20M3U3%20Midterms%20Lab%20Exercise%2012.pdf']
                 ]
